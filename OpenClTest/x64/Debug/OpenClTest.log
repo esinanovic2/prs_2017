@@ -1,0 +1,24 @@
+﻿  PRSOpenCLDotProduct.cpp
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(121): warning C4244: '=': conversion from 'float' to '::size_t', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(247): warning C4244: '=': conversion from 'float' to '::size_t', possible loss of data
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(248): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(248): note: consider using '%zd' in the format string
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(248): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '::size_t'
+  c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(248): note: consider using '%zd' in the format string
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(230): warning C4101: 'time_start': unreferenced local variable
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(262): warning C4101: 'source_size': unreferenced local variable
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(224): warning C4101: 'program_suma': unreferenced local variable
+c:\users\serio\source\repos\opencltest\opencltest\prsopencldotproduct.cpp(230): warning C4101: 'time_end': unreferenced local variable
+  OpenClTest.vcxproj -> C:\Users\serio\source\repos\OpenClTest\x64\Debug\OpenClTest.exe
